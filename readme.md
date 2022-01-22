@@ -1,6 +1,6 @@
 # JSpice Circuit Simulator
 
-JSpice is a simple electrical circuit simulator written in Java with a graphical user interface and extended graphing capabilities for better analysis.  
+JSpice is a simple electrical circuit simulator written in Java with simple GUI and extended graphing capabilities for better analysis.  
 It uses the finite element method technique to find the nearest solution for a given circuit and display the results both as data tables and graphs. The electrical circuit elements deployed include:
 
 - Independent current and voltage sources
